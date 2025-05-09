@@ -1,12 +1,12 @@
 # 📘DP-24-25 📊
 ### 👥 Group Members TY B
 
-| Name                  | PRN No.   | GitHub Profile                            |
-|-----------------------|------------|--------------------------------------------|
-| Anushka Wani          | 22211007   | [Anushka Wani](https://github.com/anushka0312-ux) |
-| Anudip Baviskar       | 22210562   | [Anudip Baviskar](https://github.com/AnudipBaviskar) |
-| Rupesh Belhekar       | 22210091   | [Rupesh Belhekar](https://github.com/RupeshBelhekar) |
-| Krushanali Rajput     | 22320217   | [Krushanali Rajput](https://github.com/Krushanali-Rajput) |
+| PRN No.   | GitHub Profile                            |
+|------------|--------------------------------------------|
+| 22211007   | [Anushka Wani](https://github.com/anushka0312-ux) |
+| 22210562   | [Anudip Baviskar](https://github.com/AnudipBaviskar) |
+| 22210091   | [Rupesh Belhekar](https://github.com/RupeshBelhekar) |
+| 22320217   | [Krushanali Rajput](https://github.com/Krushanali-Rajput) |
 
 # 🤖☀️ AI-Based Solar-Powered Smart Hat
 
