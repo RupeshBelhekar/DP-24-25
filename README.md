@@ -1,7 +1,7 @@
 # 📘DP-24-25 📊
 ### 👥 Group Members TY B
 
-| Name                  | Roll No.   | GitHub Profile                            |
+| Name                  | PRN No.   | GitHub Profile                            |
 |-----------------------|------------|--------------------------------------------|
 | Anushka Wani          | 22211007   | [Anushka Wani](https://github.com/anushka0312-ux) |
 | Anudip Baviskar       | 22210562   | [Anudip Baviskar](https://github.com/AnudipBaviskar) |
